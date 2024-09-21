@@ -29,7 +29,8 @@ pip requests
   
 
 ## 결과예시
-pdf를 텍스트로 변환 코드 : pdf_file.py
+pdf를 텍스트로 변환 코드 : pdf_file.py  
+
 최종완성파일 : chatbot_lang_gpt4_prompt_streamlit.py
 ![119chatbot_result](119chatbot_result.png)
 
