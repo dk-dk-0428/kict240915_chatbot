@@ -20,6 +20,9 @@ pip langchain-community
 pip requests
 ```
 
-## 결과
+## 결과예시
+![119chatbot_result](119chatbot_result.png)
+
+## RAG 파일
  
 
